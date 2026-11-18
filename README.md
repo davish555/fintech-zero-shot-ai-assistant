@@ -7,7 +7,7 @@
 **Program:** BBA FinTech  
 **Lab:** 1 — Zero-Shot Prompting  
 **Student:** Davish Arora  
-**Student ID:** 2620992573 
+**Student ID:** 2620992573   
 **Academic Session:** 2026–2027  
 **AI Tool/Model:** [Tool and model used]  
 **Status:** Educational Prototype
